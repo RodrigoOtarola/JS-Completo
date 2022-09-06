@@ -64,9 +64,9 @@ console.log(`Eliminada : ${eliminado}`);*/
 // console.log(azarFlecha(20,30));
 
 //Arrow y foreach, con index por defecto traera los numeros iterados
-let frutas = ["Sandia","Melon","Manzana"];
-
-frutas.forEach((fruta,index)=>{
-    console.log(`${index+1} ${fruta}`);
-});
-console.log(frutas);
+// let frutas = ["Sandia","Melon","Manzana"];
+//
+// frutas.forEach((fruta,index)=>{
+//     console.log(`${index+1} ${fruta}`);
+// });
+// console.log(frutas);

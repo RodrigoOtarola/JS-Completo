@@ -88,5 +88,12 @@ const gato = {
 //console.log(gato.nombreMayuscula);
 
 //Llamar set
-gato.agregarEnemigo = 'Juan';
-console.log(gato.enemigos);
+// gato.agregarEnemigo = 'Juan';
+// console.log(gato.enemigos);
+
+//Por valor vs por referencia
+let a = ['hola'];
+let b = a;
+a.push('chao');
+
+console.log(b);
